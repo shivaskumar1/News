@@ -1,0 +1,60 @@
+body{
+	background-color: lightblue;
+}
+.name{
+	color: blue;
+	text-align: center;
+}
+.navbar{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: darkblue;
+}
+.navlist:hover{
+	background-color: white;
+}
+.nav_list{
+	display: inline;
+	padding: 30px;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+h2{
+	padding-top: 100px;
+	text-align: center;
+	color: purple;
+}
+p{
+	font-size: 25px;
+	color: black;
+	font-family: Arial;
+}
+iframe{
+	padding:20px;
+	width: 700px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.row{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.col{
+	margin-left: 5%;
+	margin-right: 5%;
+	float: left;
+	width: 20%;
+}
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+h3{
+	text-align: center;
+}
